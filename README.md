@@ -6,3 +6,8 @@ défense).
 - Création de personnages avec des attributs aléatoires.
 - Simulation de combat et affichage des résultats.
 - Option pour rejouer ou quitter après chaque combat.
+
+
+Un document (Word ou PDF) de deux pages environ expliquant votre projet en
+démontrant qu'il fonctionne(décrivez quels tests vous avez fait, ajoutez éventuellement
+des captures d'écran...)
